@@ -1,0 +1,15 @@
+#
+# Syntax Coloring Map
+### Datatypes (KEYWORD1)
+###########################################
+
+Message KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+Value KEYWORD2
+Value KEYWORD2
+Type KEYWORD2
+Type KEYWORD2
